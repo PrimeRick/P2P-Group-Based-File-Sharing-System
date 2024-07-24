@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-**Software Requirement**
+- **Software Requirement**
 
 1. G++ compiler
    - **To install G++ :** `sudo apt-get install g++`
@@ -10,11 +10,11 @@
 
    - **To install OpenSSL library :** `sudo apt-get install openssl`
 
-**Platform:** Linux <br/>
+- **Platform:** Linux <br/>
 
 ## Usage
 
-### Tracker
+- ### Tracker
 
 1. Run Tracker:
 
@@ -40,7 +40,7 @@ Ex:
 quit
 ```
 
-### Client:
+- ### Client:
 
 1. Run Client:
 
