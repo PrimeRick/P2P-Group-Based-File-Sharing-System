@@ -4,11 +4,10 @@
 
 - **Software Requirement**
 
-1. G++ compiler
-   - **To install G++ :** `sudo apt-get install g++`
-2. OpenSSL library
-
-   - **To install OpenSSL library :** `sudo apt-get install openssl`
+    1. G++ compiler
+        - **To install G++ :** `sudo apt-get install g++`
+    2. OpenSSL library
+        - **To install OpenSSL library :** `sudo apt-get install openssl`
 
 - **Platform:** Linux <br/>
 
@@ -16,29 +15,28 @@
 
 - ### Tracker
 
-1. Run Tracker:
+    1. Run Tracker:
 
-```
-cd tracker
-./tracker​ <TRACKER INFO FILE> <TRACKER NUMBER>
-ex: ./tracker tracker_info.txt 1
-```
+        ```
+        cd tracker
+        ./tracker​ <TRACKER INFO FILE> <TRACKER NUMBER>
+        ex: ./tracker tracker_info.txt 1
+        ```
 
-`<TRACKER INFO FILE>` contains the IP, Port details of all the trackers.
+        `<TRACKER INFO FILE>` contains the IP, Port details of all the trackers.
 
-```
-Ex:
-127.0.0.1
-5000
-127.0.0.1
-6000
-```
+        ```
+        Ex:
+        127.0.0.1
+        5000
+        127.0.0.1
+        6000
+        ```
 
-2. Close Tracker:
-
-```
-quit
-```
+    2. Close Tracker:
+        ```
+        quit
+        ```
 
 - ### Client:
 
